@@ -22,7 +22,7 @@ A collaborative, real-time code editor where users can seamlessly code together.
 
 ## 🚀 Live Preview
 
-You can view the live preview of the project [here]((https://code-connect-qeyv.onrender.com)).
+You can view the live preview of the project [https://code-connect-qeyv.onrender.com].
 
 ## 💻 Tech Stack
 
