@@ -6,7 +6,7 @@ import { ChangeEvent, FormEvent, useEffect, useRef } from "react"
 import { toast } from "react-hot-toast"
 import { useLocation, useNavigate } from "react-router-dom"
 import { v4 as uuidv4 } from "uuid"
-import logo from "@/assets/logo.svg"
+import logo from "@/assets/logo.png"
 
 const FormComponent = () => {
     const location = useLocation()
@@ -111,7 +111,8 @@ const FormComponent = () => {
                 />
                 <button
                     type="submit"
-                    className="mt-2 w-full rounded-md bg-primary px-8 py-3 text-lg font-semibold text-black"
+                    style={{backgroundColor:"orange"}}
+                    className="mt-2 w-full rounded-md  px-8 py-3 text-lg font-semibold text-black"
                 >
                     Join
                 </button>

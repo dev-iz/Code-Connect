@@ -1,4 +1,4 @@
-import illustration from "@/assets/illustration.svg"
+import illustration from "@/assets/illustration.png"
 import FormComponent from "@/components/forms/FormComponent"
 
 function HomePage() {
@@ -9,7 +9,7 @@ function HomePage() {
                     <img
                         src={illustration}
                         alt="Code Collab Illustration"
-                        className="mx-auto w-[250px] sm:w-[400px]"
+                        className="mx-auto   h-[400px]"
                     />
                 </div>
                 <div className="flex w-full items-center justify-center sm:w-1/2">
